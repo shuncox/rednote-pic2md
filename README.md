@@ -34,7 +34,7 @@
 ```bash
 # 克隆项目
 git clone https://github.com/shuncox/rednote-pic2md.git
-cd pic2md
+cd rednote-pic2md
 
 # 安装依赖
 uv sync
