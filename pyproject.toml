@@ -1,0 +1,11 @@
+[project]
+name = "pic2md"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pillow>=12.0.0",
+    "pyqt6>=6.10.1",
+    "requests>=2.32.5",
+]
